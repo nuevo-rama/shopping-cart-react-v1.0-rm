@@ -7,6 +7,12 @@
 - Props
 - Events
 - Hooks
+---
+### Wireframe
+
+### Preview
+
+### About
 
 In the project directory, you can run:
 
